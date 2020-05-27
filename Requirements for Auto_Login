@@ -6,7 +6,8 @@ selenium automates web browsers tasks, Please download the corresponding WebDriv
 
 If You are using Chrome, Download the WebDriver from here : https://sites.google.com/a/chromium.org/chromedriver/downloads
 For other browsers simply google webdriver Browser_Name
+Extract the zip file and copy file Path to Tester.py File
 
-Clone or Download this Repo And enter your Username , Password in the Fb_login.py File
+Clone or Download this Repo And enter your Username , Password in the Tester.py File
 
 Now you are Ready to go!!!!
