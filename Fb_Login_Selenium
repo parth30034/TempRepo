@@ -7,7 +7,7 @@ password='noobmaster69'             #enter password
 
 url='https://www.facebook.com/'     #Enter the url to the website , in this case facebook
 
-driver=webdriver.Chrome(r"C:\Users\Parth\Desktop\chromedriver\chromedriver.exe") #copy the path of executable chromedriver file
+driver=webdriver.Chrome(r"Path to the executable chromedriver_File") #copy the path of executable chromedriver file
 
 driver.get(url)   #directs the chrome browser to the "url"
 driver.find_element_by_id('email').send_keys(username)   #finds element by id with name 'email' and feeds 'username' using sendkeys function
