@@ -1,0 +1,12 @@
+First Install selenium library using :
+
+pip install selenium  (Pip has to be Pre_Installed)
+
+selenium automates web browsers tasks, Please download the corresponding WebDriver For your WebBrowser
+
+If You are using Chrome, Download the WebDriver from here : https://sites.google.com/a/chromium.org/chromedriver/downloads
+For other browsers simply google webdriver Browser_Name
+
+Clone or Download this Repo And enter your Username , Password in the Fb_login.py File
+
+Now you are Ready to go!!!!
